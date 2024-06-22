@@ -55,24 +55,24 @@ h4 {
 }
 
 p {
-  font-size: .9em;
-  line-height: 1.8em;
-  letter-spacing: .103em;
+  font-size: 0.635em;
+  line-height: 2.255em;
+  letter-spacing: 0.151em;
   margin-bottom: 15px;
 }
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-size: 0.8em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: .30em;
   vertical-align: top;
   padding-top: 10px;
 }
 
 img {
   display: inline-block;
-  margin: 0 40px;
+  margin: 0 30px;
 }
 
 .wrapper {
@@ -109,4 +109,8 @@ img {
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+}
+
+#Span1 {
+  text-align: left;
 }
